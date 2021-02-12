@@ -1,3 +1,5 @@
+# algorithm that returns the largest element in an array. 
+
 arr = [20, 300, 16, 655, 8, 30, 20, 1]
 
 def _biggest_(arr):
